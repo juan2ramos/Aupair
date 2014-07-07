@@ -168,3 +168,19 @@ State
     text-align: right;
 }
 
+@media screen and (max-width:960px) {
+    #formulario .column,#formulario .column:last-child{
+        border: none;
+        display: block;
+        width: 100%;
+        height: auto;
+        margin-bottom: 0;
+    }
+    #formulario .contend-input{
+        width: 400px;
+        margin: 0 auto;
+    }
+    #formulario form{
+        width: 100%;
+    }
+}
