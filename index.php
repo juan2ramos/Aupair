@@ -14,7 +14,7 @@ define('ROOT', realpath(dirname(__FILE__)) . DS);
 
 
 try{
-    $url = isset($_GET['url'])?$_GET['url']:'formulario';
+    $url = isset($_GET['url'])?$_GET['url']:'inicio';
     $fileName = ROOT . 'views' . DS . $url . '.php' ;
 
     if(is_readable($fileName)){

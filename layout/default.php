@@ -21,8 +21,6 @@
 
 
     <link rel="shortcut icon" href="favicon.png">
-    <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900,300italic,400italic,700italic,900italic'
-          rel='stylesheet' type='text/css'>
 
     <!-- Estilos -->
     <script src="js/prefixfree.min.js"></script>
@@ -31,19 +29,218 @@
 
 
 </head>
-<body>
+<body class="<?php echo($url); if($url!='inicio'){echo(' menu-fixed');}?>">
 <header>
-    <img src="images/header-contact.jpg" alt=""/>
+    <div id="bar-info">
+        <ul id="customer-service" class="inline">
+            <li><a href="conocenos">Conócenos</a> -</li>
+            <li><a href="servicio-al-cliente">Servicio Al Cliente</a> -</li>
+            <li><a href="eventos">Eventos</a> -</li>
+            <li><a href="funcionarios">Funcionarios </a></li>
+        </ul>
+        <div id="info-aupair" class="inline">
+            Email: <a href="mailto:info@aupaircolombia.com">info@aupaircolombia.com</a> |
+            P.B.X<a href="tel:5717440144">57 (1) 7 44 01 44</a>
+        </div>
+        <nav id="network" class="inline">
+            <li><a href=""><span class="icon-facebook"></span></a></li>
+            <li><a href=""><span class="icon-twitter"></span></a></li>
+            <li><a href=""><span class="icon-instagram"></span></a></li>
+            <li><a href=""><span class="icon-uniE603"></span></a></li>
+        </nav>
+    </div>
+    <?php if ($url == 'inicio'): ?>
+        <div class="slider slider-home">
+            <ul class="slides">
+                <li>
+                    <div class="contend-p">
+                        <p> Más que viajar trabajar </p><br>
+
+                        <p>y ser bilingue </p><br>
+
+                        <p>es estar a la par con el mundo</p>
+
+                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                    </div>
+                    <img src="images/banner/01.jpg">
+                </li>
+                <li>
+                    <div class="contend-p">
+                        <p> Más que viajar trabajar </p><br>
+
+                        <p>y ser bilingue </p><br>
+
+                        <p>es estar a la par con el mundo</p>
+
+                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                    </div>
+                    <img src="images/banner/02.jpg">
+                </li>
+                <li>
+                    <div class="contend-p">
+                        <p> Más que viajar trabajar </p><br>
+
+                        <p>y ser bilingue </p><br>
+
+                        <p>es estar a la par con el mundo</p>
+
+                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                    </div>
+                    <img src="images/banner/03.jpg">
+                </li>
+                <li>
+                    <div class="contend-p">
+                        <p> Más que viajar trabajar </p><br>
+
+                        <p>y ser bilingue </p><br>
+
+                        <p>es estar a la par con el mundo</p>
+
+                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                    </div>
+                    <img src="images/banner/04.jpg">
+                </li>
+            </ul>
+        </div>
+    <?php endif ?>
+    <div id="bar-nav">
+        <div id="slogan-twiter" class="inline">
+            <span>#yomefuicon</span><span>aupaircolombia</span>
+
+            <div><a href="http://www.aupaircolombia.com">www.aupaircolombia.com</a></div>
+            <img src="images/paises.png" alt="Paises Aupair"/>
+
+        </div>
+        <nav id="menu" class="inline ">
+            <ul>
+                <li><a href="inicio">Incio</a> |</li>
+                <li><a href="programa">El Programa</a> |</li>
+                <li><a href="testimonio">Testimonio</a> |</li>
+                <li><a href="ubicacion">Encuéntranos</a></li>
+            </ul>
+        </nav>
+        <div class="inline ins">
+            <a href="inscribete">Inscribete</a>
+            <a href="#">Pagos en Linea.</a>
+        </div>
+    </div>
 </header>
-
-<nav>
-
-</nav>
 
 <?php include $fileName; ?>
 
 <footer>
+    <div id="wrapper">
+        <div id="customer-service-footer" class="inline">
+            <h2><span>Servicio</span> al Cliente</h2>
+            <hr/>
+            <div class="inline text-service">
+                <p class="clear-bottom">
+                    En nuestro departamento de servicio al cliente siempre encontraras el apoyo necesario para todos los
+                    temas
+                    relacionados con tu aplicación.
+                </p>
+                <a class="bold" href="mailto:servicioalcliente@aupaircolombia.com">servicioalcliente@aupaircolombia.com</a>
+                <hr/>
+                <p>Mantente actualizado:</p>
+                <p class="color-yellow">Suscribete a nuestro <span class="bold">Newsletter.</span></p>
+                <form action="" id="newsletter">
+                    <input type="text" name="" id="" placeholder="E Mail."/>
+                    <button>Ok.</button>
+                </form>
+            </div>
+            <div class="inline more-info border-left">
+                <p>Departamento Comercial.</p>
 
+                <p>P.B.X +57 (1) <span>7 44 01 44</span></p>
+
+                <p>Chapinero - <span>Cra. 7 No. 50 - 10</span></p>
+
+                <p>info@aupaircolombia.com</p>
+
+                <p>Gerencia General</p>
+
+                <p>Ext.<span>12-00</span></p>
+
+                <p> Prosesos internacionales</p>
+
+                <p>Ext.<span>14-00</span></p>
+
+                <p>Departamento juridico </p>
+
+                <p> Ext.<span>11-00</span></p>
+
+            </div>
+        </div>
+        <div id="contact" class="inline">
+            <h2>Contáctanos</h2>
+            <hr/>
+            <p>Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un nuevo estilo de vida;
+                enriquecer tu perfil personal y laboral al ser bilingüe y al haber vivido una experiencia multicultural.
+            </p>
+
+            <div>
+                <form action="" class="inline">
+                    <input type="text" name="name-user" placeholder="Nombre completo."/>
+                    <input type="tel" name="telephone" placeholder="Tel."/>
+                    <input type="email" name="email" placeholder="E mail."/>
+                    <input type="number" name="age" placeholder="Edad."/>
+                    <select name="program">
+                        <option value="">Programa de interes.</option>
+                        <option value="">Alemania</option>
+                        <option value="">USA</option>
+                        <option value="">China</option>
+                        <option value="">Francia</option>
+                    </select>
+                    <textarea name="message" id="" placeholder="Mensaje"></textarea>
+                    <input type="submit" value="Enviar"/>
+                </form>
+                <div class="more-info inline">
+                    <p>P.B.X +57 (1)<span> 7 44 01 44 </span></p>
+
+                    <p>Sede Administrativa. </p>
+
+                    <p>Chapinero - <span>Cra. 7 No. 50 - 10 </span></p>
+
+                    <p>info@aupaircolombia.com </p>
+
+
+                    <p>Centro | Ext.<span>11-00</span><br>
+
+                    <p><span> Cll.19 No. 3a - 35</span></p>
+
+                    <p> Centro | Ext.<span>11-00<span></p>
+
+                    <p><span>Cll.19 No. 3a - 35</span></p>
+
+                    <p> Javeriana | Ext.<span>12-00</span></p>
+
+                    <p><span>Cra.7 No. 40b - 97</span></p>
+
+                    <p> Centro Mayor | Ext.<span>14-0</span></p>
+
+                    <p><span>Local 2-167</span></p>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copy">
+        <div id="wrapper-copy">
+            <div class="inline">Deadline Stdo. - juan2ramos.com todos los derechos reservados.</div>
+            <div class="inline">Au - Pair Colombia 2014. Todos los derecho reservados</div>
+            <nav id="network-footer" class="inline">
+                <li><a href=""><span class="icon-facebook"></span></a></li>
+                <li><a href=""><span class="icon-twitter"></span></a></li>
+                <li><a href=""><span class="icon-instagram"></span></a></li>
+                <li><a href=""><span class="icon-uniE603"></span></a></li>
+            </nav>
+        </div>
+    </div>
 </footer>
 <!-- JavaScript -->
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
