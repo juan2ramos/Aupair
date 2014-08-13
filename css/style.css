@@ -228,19 +228,19 @@ nav#network li a:hover {
 .slider .contend-p {
     font-family: 'Conv_Helvetica LT Std - Bold';
     font-size: 2em;
-    left: 100px;
+    left: 75px;
     position: absolute;
-    top: 100px;
+    top: 140px;
 }
 
 .slider .contend-p p {
     background: rgba(0, 52, 90, 0.5);
     color: #FFB348;
-    font-size: 1.7rem;
-    display: inline-block;
+    font-size: 2.5rem;
+    display: inline;
     margin: 0 0 6px;
     max-width: 750px;
-    padding: 7px 10px;
+    padding: 4px 9px;
 }
 
 .flex-control-nav {
@@ -380,10 +380,14 @@ bar nav
     border-radius: 15px;
     color: #fff;
     font-size: .7rem;
-    line-height: 10px;
+    /* line-height: 10px; */
     margin: 0 4px;
-    min-width: 100px;
+    /* min-width: 100px; */
     padding: 8px;
+    width: 118px;
+    display: inline-block;
+    text-align: center;
+
 }
 
 #bar-nav .ins a:hover {
@@ -399,6 +403,7 @@ bar nav
 #slogan-twiter span {
     display: block;
     line-height: .9em;
+    letter-spacing: -1px;
 }
 
 #slogan-twiter a {
@@ -464,7 +469,7 @@ footer #customer-service-footer .text-service hr {
 }
 
 footer #customer-service-footer .text-service input {
-    width: 200px;
+    width: 206px;
 }
 
 footer #customer-service-footer .text-service p {
@@ -481,9 +486,9 @@ footer button {
     border: 1px solid #FFB348;
     border-radius: 10px;
     color: #ffffff;
-    padding: 7px;
+    padding: 7px 9px;
     position: absolute;
-    right: 0;
+    right: -4px;
     top: 3px;
 }
 
@@ -491,7 +496,9 @@ footer button:hover {
     background: #FFB348;
     color: #00345A;
 }
-
+.roman{
+    font-family: 'Conv_HelveticaLTStd-Roman';
+}
 #copy {
     background: #00345A;
     width: 100%;
@@ -504,7 +511,7 @@ footer button:hover {
 }
 
 #customer-service-footer hr {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 #customer-service-footer a {
@@ -672,10 +679,16 @@ Home
 #main-banner button {
     background: transparent;
     border: solid 1px #FFB348;
-    border-radius: 12px;
-    color: #ffffff;
-    font-size: .8em;
-    padding: 10px 20px 6px;
+    border-radius: 15px;
+    color: #fff;
+    font-size: .7rem;
+    /* line-height: 10px; */
+    margin: 0 4px;
+    /* min-width: 100px; */
+    padding: 8px;
+    width: 118px;
+    display: inline-block;
+    text-align: center;
 }
 
 #main-banner button:hover {
@@ -698,17 +711,19 @@ Home
 }
 
 #banner-benefit .icon-contend {
-    border: 1px solid #00345A;
+    border: 4px solid #00345A;
     border-radius: 50%;
     font-size: 3em;
     font-size: 3em;
-    left: -85px;
+    left: -100px;
     padding: 14px;
     position: absolute;
     top: 135px;
 
 }
-
+.icon-signup{
+    color: #00345A;
+}
 #banner-benefit img {
     width: 430px;
 }
@@ -793,7 +808,7 @@ Home
 #banner-two article {
     color: #ffffff;
     margin-bottom: 25px;
-    width: 570px;
+    width: 565px;
     text-align: center;
     vertical-align: bottom;
 
@@ -812,8 +827,8 @@ Home
 }
 
 #banner-two p {
-    font-size: .8rem;
-    line-height: 1.5em
+    font-size: .7rem;
+    line-height: 1.3em
 }
 
 #banner-two span:nth-child(2) {
@@ -823,10 +838,16 @@ Home
 #banner-two button {
     background: transparent;
     border: solid 1px #FFB348;
-    border-radius: 12px;
-    color: #ffffff;
-    font-size: .8em;
-    padding: 12px 20px 7px;
+    border-radius: 15px;
+    color: #fff;
+    font-size: .7rem;
+    /* line-height: 10px; */
+    margin: 0 4px;
+    /* min-width: 100px; */
+    padding: 8px;
+    width: 118px;
+    display: inline-block;
+    text-align: center;
 }
 
 #banner-two button:hover {
@@ -991,7 +1012,7 @@ Home
 
 .video {
     background: #00345A;
-    height: 190px;
+    height: 240px;
     width: 100%;
 
 }
@@ -999,6 +1020,9 @@ Home
 .read-more {
     color: #FFB348;
     padding: 0 10px;
+    margin-bottom: 10px;
+    display: block;
+
 }
 
 .read-more:hover {
@@ -1020,7 +1044,11 @@ Home
     padding: 10px;
     vertical-align: top;
 }
-
+.icon-program2{
+    font-size: 2.8rem;
+    padding: 0 10px;
+    vertical-align: top;
+}
 #program {
     height: 285px;
 }
@@ -1074,8 +1102,9 @@ Home
 }
 
 #program-contend h3 {
-    font-size: 1.4rem;
+    font-size: 1.8rem;
     color: #FFB348;
+    font-family: 'Conv_HelveticaLTStd-Roman';
 }
 
 #program-contend h3 span {
@@ -1338,14 +1367,13 @@ inscribete
 }
 
 .inscribete #service .contend-h2 > span {
-    border: 2px solid #FFB348;
-    border-radius: 50%;
+
     display: inline-block;
     color: #FFB348;
     height: 50px;
     line-height: 50px;
     margin: 0 10px;
-    font-size: 2em;
+    font-size: 3em;
     text-align: center;
     vertical-align: middle;
     width: 50px;
@@ -1358,7 +1386,7 @@ inscribete
 }
 
 .inscribete label {
-    margin: 5px 0 15px 10px;
+    margin: 5px 0 -1px 10px;
     display: block;
     font-size: .8rem;
 
@@ -1370,7 +1398,7 @@ inscribete
 
 .inscribete .column-4 input, .inscribete .column-4 select, .inscribete .column-4 textarea {
     font-size: .75em;
-    margin-bottom: 15px !important;
+    margin-bottom: 4px !important;
 }
 
 #blog-section time .hr-time {
@@ -1433,7 +1461,28 @@ inscribete
     /* Internet Explorer 10+ */
     color: #00345A;
 }
+#submenu{
+    background: #00345A;
+    font-size: 1rem;
+    display: none;
+}
+#submenu li{
+    display: block;
+    width: 100px;
+    padding: 5px;
 
+}
+#menu li:hover #submenu {
+    display: block;
+    position: absolute;
+
+}
+#nuestros-cursos{
+background: url("../images/Nuestros-cursos.jpg") no-repeat center;
+}
+#nuestros-cursos figure{
+    width: 300px;
+}
 /*=================================================================
 State
 ===================================================================*/
@@ -1504,7 +1553,7 @@ section .column-4:last-child {
 }
 
 .big-p {
-    font-size: 1.1rem;
+    font-size: 1.1rem !important;
 }
 #banner-program {
     background: url("../images/programa.jpg");
@@ -1628,6 +1677,26 @@ section .column-4:last-child {
     border-radius: 50%;
     display: inline-block;
     padding: 5px 5px;
+
+}
+.slider .contend-p p.light-p{
+    background: none !important;
+    color: #FFFFFF !important;
+    font-size: 1.7rem;
+    font-family: 'Conv_HelveticaLTStd-Roman';
+    padding: 0;
+    display: inline-block;
+    margin: 15px 0;
+    line-height: 24px;
+}
+.slider .contend-p p.light-p a{
+    margin: 12px 0;
+    font-size: 1.2rem;
+    display: inline-block;
+
+}
+.slider .contend-p p.light-p a:hover{
+    text-decoration: underline;
 
 }
 iframe{

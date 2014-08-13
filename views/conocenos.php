@@ -33,7 +33,7 @@
                 <div class="column-4">
                     <span>IAPA</span>
                     <span class="bold color-yellow">Members.</span>
-                    <span class="font-1">(International <br/>Au-pair Association)</span>
+                    <span class="font-1 roman">(International <br/>Au-pair Association)</span>
                     <hr/>
                     <p>
                         Somos miembros de la IAPA desde el 05 de abril del año 2000, actualmente contamos con estatus de
@@ -50,7 +50,7 @@
                 <div class="column-4">
                     <span>Miembros de</span>
                     <span class="bold color-yellow">ASCAAP.</span>
-                    <span class="font-1">(Asociacion Colombiana De Agencias Au-pair)</span>
+                    <span class="font-1 roman">(Asociacion Colombiana De Agencias Au-pair)</span>
                     <hr/>
                     <p>
                         Contamos con el Benefició de ser una de las empresas cofundadoras de la ASCAAP, asociación que
@@ -65,7 +65,7 @@
                 </div>
             </div>
             <div class="column-2">
-                <h2>Nuestra <span class="bold color-yellow">Visión.</span></h2>
+                <h2>Nuestra <span class="bold color-blue">Visión.</span></h2>
                 <hr/>
                 <p>
                     Ser reconocidos a nivel nacional e internacional por medio de nuestra labor como promotores de

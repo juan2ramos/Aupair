@@ -42,6 +42,7 @@
                         <input type="text" placeholder="Nivel?"/>
                         <label for="comentarios">Dejanos tus comentarios. </label>
                         <textarea name="comentarios" id=""></textarea>
+                        <input class="color-yellow" type="submit" value"Enviar."/>
 
                     </div>
                 </form>
@@ -50,7 +51,7 @@
             </div>
             <div class="column-2">
                 <div class="contend-h2">
-                    <span class="icon-facebook"></span>
+                    <span class="icon-signup"></span>
 
                     <h2 class="inline">
                         Solicita Tu Entrevista <br/>
@@ -65,7 +66,7 @@
                 </p>
 
                 <div class="contend-h2">
-                    <span class="icon-facebook"></span>
+                    <span class="icon-signup"></span>
 
                     <h2 class="inline">
                         Adquiere<br/>
@@ -78,7 +79,7 @@
                 </p>
 
                 <div class="contend-h2 ">
-                    <span class="icon-facebook"></span>
+                    <span class="icon-signup"></span>
 
 
                     <h2 class="inline">

@@ -125,4 +125,18 @@
             </div>
         </section>
     </div>
+    <div id="nuestros-cursos">
+        <figure class="inline">
+            <img src="images/chica.png" alt=""/>
+        </figure>
+        <article class="inline">
+            <ul>
+                <li><span class="icon-signup"></span>nuestros-cursos</li>
+                <li><span class="icon-signup"></span>nuestros-cursos</li>
+                <li><span class="icon-signup"></span>nuestros-cursos</li>
+                <li><span class="icon-signup"></span>nuestros-cursos</li>
+            </ul>
+        </article>
+
+    </div>
 </div>

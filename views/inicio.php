@@ -15,7 +15,7 @@
         <img src="images/Inserto-Home.png" alt=""/>
     </figure>
     <div class="inline contend">
-        <p class="bold text-left">
+        <p class="bold text-left color-blue" >
             Au-Pair es un programa de intercambio cultural dirigido a jóvenes entre los 17 y 29 años, el cual consiste
             en vivir, trabajar y estudiar <br/>
             <span class="light">
@@ -24,21 +24,21 @@
             </span>
         </p>
 
-        <div class="icon-contend"><span class="icon-profile"></span></div>
+        <div class="icon-contend"><span class="icon-signup"></span></div>
         <h2>Cuales son <span class="bold color-blue">los requisitos.</span></h2>
         <hr/>
         <p>Las interesadas en ser Au-Pair deben cumplir con los
             siguientes requisitos:</p>
 
         <div class="item">
-            <span class="icon-profile"></span>
+            <span class="icon-signup"></span>
 
             <p class="inline">
                 Cuentas con una empresa
             </p>
         </div>
         <div class="item">
-            <span class="icon-user"></span>
+            <span class="icon-signup"></span>
 
             <p class="inline">
                 Cuentas con una empresa avalada por
@@ -63,20 +63,20 @@
         como en el exterior.
     </p>
     <ul>
-        <li><span class="icon-user inline icon-program"></span>
+        <li><span class="icon-signup inline icon-program2 color-yellow"></span>
             <ul class="inline">
                 <li>Preparación lingüística y en cuidado de niños.</li>
                 <li>Asesoría en visa con alta probabilidad de aprobación.</li>
             </ul>
         </li>
-        <li><span class="icon-user inline icon-program"></span>
+        <li><span class="icon-signup inline icon-program2 color-yellow"></span>
 
             <p class="inline">
                 Cuentas con una empresa avalada por las Organizaciones reguladoras a nivel nacional e internacional
                 como:
             </p>
         </li>
-        <li><span class="icon-user inline icon-program"></span>
+        <li><span class="icon-signup inline icon-program2 color-yellow"></span>
             <ul class="inline">
                 <li>IAPA: International Au Pair Association.</li>
                 <li>ASCAAP: Asociación Colombia de Agencias Au-Pair.</li>
@@ -181,6 +181,31 @@
                         </article>
                     </li>
                     <li>
+                        <article class="margin-right">
+                            <figure>
+                                <img src="" alt=""/>
+                            </figure>
+                            <time class="inline">
+                                <span>14</span>
+                                <hr/>
+                                <span>ENE. 07</span>
+                            </time>
+                            <h3 class="inline">Mi procesos
+                                <span>como Au pair.</span>
+                            </h3>
+                            <hr/>
+                            <p>
+                                Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un
+                                nuevo estilo
+                                de
+                                vida; enriquecer tu perfil personal y laboral al ser bilingüe y al haber vivido una
+                                experiencia
+                                multicultural.
+                            </p>
+                            <span class="read-more">Leer más</span>
+                        </article>
+                    </li>
+                    <li>
                         <article>
                             <figure>
                                 <img src="" alt=""/>
@@ -239,7 +264,9 @@
             <div class="slider-video">
                 <ul class="slides">
                     <li>
-                        <div class="video" style="background: #003e6a"></div>
+                        <div class="video" style="background: #003e6a">
+                            <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen></iframe>
+                        </div>
                         <h3>Mi proceso <span>como Au pair.</span></h3>
                         <hr/>
                         <p>
@@ -252,7 +279,10 @@
                         </p>
                     </li>
                     <li>
-                        <div class="video"></div>
+                        <div class="video">
+                            <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen></iframe>
+
+                        </div>
                         <h3>Mi proceso <span>como Au pair.</span></h3>
                         <hr/>
                         <p>

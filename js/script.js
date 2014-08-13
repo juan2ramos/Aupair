@@ -11,7 +11,7 @@ $(function () {
         $('.slider-blog').flexslider({
             animation: "slide",
             animationLoop: false,
-            itemWidth: 190000,
+            itemWidth: 240,
             itemMargin: 0,
             minItems: 2,
             prevText: "<",

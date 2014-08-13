@@ -45,8 +45,8 @@
         <nav id="network" class="inline">
             <li><a href=""><span class="icon-facebook"></span></a></li>
             <li><a href=""><span class="icon-twitter"></span></a></li>
-            <li><a href=""><span class="icon-instagram"></span></a></li>
             <li><a href=""><span class="icon-uniE603"></span></a></li>
+            <li><a href=""><span class="icon-instagram"></span></a></li>
         </nav>
     </div>
     <?php if ($url == 'inicio'): ?>
@@ -54,56 +54,60 @@
             <ul class="slides">
                 <li>
                     <div class="contend-p">
-                        <p> Más que viajar trabajar </p><br>
+                        <p> Más que viajar trabajar <br>
 
-                        <p>y ser bilingue </p><br>
+                            &nbsp;y ser bilingue <br>
 
-                        <p>es estar a la par con el mundo</p>
-
-                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
-                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                            &nbsp;es estar a la par con el mundo</p>
+                        <br/>
+                        <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
                     <img src="images/banner/01.jpg">
                 </li>
+
                 <li>
                     <div class="contend-p">
-                        <p> Más que viajar trabajar </p><br>
+                        <p> Más que viajar trabajar <br>
 
-                        <p>y ser bilingue </p><br>
+                            &nbsp;y ser bilingue <br>
 
-                        <p>es estar a la par con el mundo</p>
-
-                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
-                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                            &nbsp;es estar a la par con el mundo</p>
+                        <br/>
+                        <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
                     <img src="images/banner/02.jpg">
                 </li>
+
                 <li>
                     <div class="contend-p">
-                        <p> Más que viajar trabajar </p><br>
+                        <p> Más que viajar trabajar <br>
 
-                        <p>y ser bilingue </p><br>
+                            &nbsp;y ser bilingue <br>
 
-                        <p>es estar a la par con el mundo</p>
-
-                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
-                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                            &nbsp;es estar a la par con el mundo</p>
+                        <br/>
+                        <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
                     <img src="images/banner/03.jpg">
                 </li>
+
                 <li>
                     <div class="contend-p">
-                        <p> Más que viajar trabajar </p><br>
+                        <p> Más que viajar trabajar <br>
 
-                        <p>y ser bilingue </p><br>
+                            &nbsp;y ser bilingue <br>
 
-                        <p>es estar a la par con el mundo</p>
-
-                        <p>somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
-                            durante todo tu proceso tanto en Colombia como en el exterior.</p>
+                            &nbsp;es estar a la par con el mundo</p>
+                        <br/>
+                        <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
+                            durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
                     <img src="images/banner/04.jpg">
                 </li>
+
             </ul>
         </div>
     <?php endif ?>
@@ -118,8 +122,16 @@
         <nav id="menu" class="inline ">
             <ul>
                 <li><a href="inicio">Incio</a> |</li>
-                <li><a href="programa">El Programa</a> |</li>
-                <li><a href="testimonio">Testimonio</a> |</li>
+                <li> Aupair  |
+                    <ul id="submenu">
+                        <li><a href="programa"> Programas </a></li>
+                        <li><a href="programa-china"> China </a></li>
+                        <li><a href="programa-Canada"> Canada </a></li>
+                        <li><a href="programa-Alemania"> Alemania </a></li>
+
+                    </ul>
+                </li>
+                <li><a href="testimonio">Testimonios</a> |</li>
                 <li><a href="ubicacion">Encuéntranos</a></li>
             </ul>
         </nav>
@@ -135,7 +147,7 @@
 <footer>
     <div id="wrapper">
         <div id="customer-service-footer" class="inline">
-            <h2><span>Servicio</span> al Cliente</h2>
+            <h2><span class="color-yellow">Servicio</span> al Cliente</h2>
             <hr/>
             <div class="inline text-service">
                 <p class="clear-bottom">
@@ -146,7 +158,7 @@
                 <a class="bold" href="mailto:servicioalcliente@aupaircolombia.com">servicioalcliente@aupaircolombia.com</a>
                 <hr/>
                 <p>Mantente actualizado:</p>
-                <p class="color-yellow">Suscribete a nuestro <span class="bold">Newsletter.</span></p>
+                <p class="color-yellow">Suscribete a nuestro <span class="roman">Newsletter.</span></p>
                 <form action="" id="newsletter">
                     <input type="text" name="" id="" placeholder="E Mail."/>
                     <button>Ok.</button>
@@ -220,7 +232,7 @@
 
                     <p><span>Cra.7 No. 40b - 97</span></p>
 
-                    <p> Centro Mayor | Ext.<span>14-0</span></p>
+                    <p> Centro Mayor | Ext.<span>14-00</span></p>
 
                     <p><span>Local 2-167</span></p>
 
@@ -236,8 +248,8 @@
             <nav id="network-footer" class="inline">
                 <li><a href=""><span class="icon-facebook"></span></a></li>
                 <li><a href=""><span class="icon-twitter"></span></a></li>
-                <li><a href=""><span class="icon-instagram"></span></a></li>
                 <li><a href=""><span class="icon-uniE603"></span></a></li>
+                <li><a href=""><span class="icon-instagram"></span></a></li>
             </nav>
         </div>
     </div>

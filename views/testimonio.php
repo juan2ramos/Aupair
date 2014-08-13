@@ -169,7 +169,9 @@
                     <div class="slider-video">
                         <ul class="slides">
                             <li>
-                                <div class="video" style="background: #003e6a"></div>
+                                <div class="video" style="background: #003e6a">
+                                    <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
+                                </div>
                                 <h3>Mi proceso <span>como Au pair.</span></h3>
                                 <hr/>
                                 <p>
@@ -180,7 +182,9 @@
                                     experiencia
                                     multicultural.
                                 </p>
-                                <div class="video" style="background: #003e6a"></div>
+                                <div class="video" style="background: #003e6a">
+                                    <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
+                                </div>
                                 <h3>Mi proceso <span>como Au pair.</span></h3>
                                 <hr/>
                                 <p>
@@ -193,7 +197,22 @@
                                 </p>
                             </li>
                             <li>
-                                <div class="video"></div>
+                                <div class="video" style="background: #003e6a">
+                                    <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
+                                </div>
+                                <h3>Mi proceso <span>como Au pair.</span></h3>
+                                <hr/>
+                                <p>
+                                    Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un nuevo
+                                    estilo de
+                                    vida;
+                                    enriquecer tu perfil personal y laboral al ser bilingüe y al haber vivido una
+                                    experiencia
+                                    multicultural.
+                                </p>
+                                <div class="video" style="background: #003e6a">
+                                    <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
+                                </div>
                                 <h3>Mi proceso <span>como Au pair.</span></h3>
                                 <hr/>
                                 <p>
@@ -205,6 +224,7 @@
                                     multicultural.
                                 </p>
                             </li>
+
                         </ul>
                     </div>
                 </div>
