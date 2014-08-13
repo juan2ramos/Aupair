@@ -63,7 +63,7 @@
                         <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
                             durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
-                    <img src="images/banner/01.jpg">
+                    <img src="images/Banner/01.jpg">
                 </li>
 
                 <li>
@@ -77,7 +77,7 @@
                         <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
                             durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
-                    <img src="images/banner/02.jpg">
+                    <img src="images/Banner/02.jpg">
                 </li>
 
                 <li>
@@ -91,7 +91,7 @@
                         <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
                             durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
-                    <img src="images/banner/03.jpg">
+                    <img src="images/Banner/03.jpg">
                 </li>
 
                 <li>
@@ -105,7 +105,7 @@
                         <p class="light-p">somos una agencia dónde encontrarás responsabilidad, profesionalismo y soporte calificado
                             durante todo tu proceso tanto en Colombia como en el exterior. <br/><a href="conocenos" class="light color-yellow">CONOCENOS</a></p>
                     </div>
-                    <img src="images/banner/04.jpg">
+                    <img src="images/Banner/04.jpg">
                 </li>
 
             </ul>
