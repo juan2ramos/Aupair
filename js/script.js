@@ -25,6 +25,13 @@ $(function () {
             nextText: ">"
         });
     }
+    if ($('.slider-evento').length > 0) {
+        $('.slider-evento').flexslider({
+            animation: "slide",
+            prevText: "<",
+            nextText: ">"
+        });
+    }
     /* Form */
     $('#form-contact').on("submit", function (e) {
         e.preventDefault();

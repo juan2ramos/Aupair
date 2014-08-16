@@ -153,7 +153,9 @@ hr {
 .color-yellow {
     color: #FFB348 !important;
 }
-
+p{
+    color: #00345A;
+}
 /*=================================================================
 header
 ===================================================================*/
@@ -355,7 +357,7 @@ bar nav
 }
 
 #menu {
-    margin: 0 50px;
+    margin: 0 70px;
     vertical-align: middle;
 }
 
@@ -443,7 +445,9 @@ footer h2 {
     margin: 0;
     padding: 0;
 }
-
+footer p{
+    color: #fff;
+}
 footer h2 span {
     font-family: 'Conv_HelveticaLTStd-Light';
 }
@@ -662,8 +666,8 @@ Home
     background: url("../images/cenefa-01.jpg");
     color: #ffffff;
     margin: 10px 0;
-    max-height: 261px;
-    padding: 50px 200px;
+    max-height: 230px;
+    padding: 35px 200px;
     text-align: center;
 }
 
@@ -672,11 +676,15 @@ Home
 }
 
 #main-banner p {
+    color: #ffffff;
     font-size: .8em;
     line-height: 1.6em
 }
+#main-banner hr {
+    border-color: #ffffff;
+}
 
-#main-banner button {
+#main-banner a {
     background: transparent;
     border: solid 1px #FFB348;
     border-radius: 15px;
@@ -691,7 +699,7 @@ Home
     text-align: center;
 }
 
-#main-banner button:hover {
+#main-banner a:hover {
     background: #FFB348;
     color: #00345A;
 }
@@ -802,7 +810,7 @@ Home
 }
 
 #banner-two img {
-    max-width: 345px
+    max-width: 301px
 }
 
 #banner-two article {
@@ -827,6 +835,7 @@ Home
 }
 
 #banner-two p {
+    color: #ffffff;
     font-size: .7rem;
     line-height: 1.3em
 }
@@ -835,7 +844,7 @@ Home
     color: #FFB348;
 }
 
-#banner-two button {
+#banner-two a {
     background: transparent;
     border: solid 1px #FFB348;
     border-radius: 15px;
@@ -850,7 +859,7 @@ Home
     text-align: center;
 }
 
-#banner-two button:hover {
+#banner-two a:hover {
     background: #FFB348;
     color: #00345A;
 }
@@ -952,7 +961,7 @@ Home
 }
 
 .content-blog {
-    padding: 70px 43px 0
+    padding: 40px 43px 0
 }
 
 .blog:first-child {
@@ -1071,6 +1080,7 @@ Home
 }
 
 #program li p {
+    color: #ffffff;
     margin: 0;
     padding-left: 5px;
     width: 185px;
@@ -1091,6 +1101,8 @@ Home
 }
 
 #program > p {
+
+    color: #ffffff;
     margin: 20px auto;
     width: 800px;
 }
@@ -1127,7 +1139,25 @@ Home
 section .column-3:last-child {
     margin-right: 0;
 }
-
+.slider-evento{
+    position: relative;
+}
+.slider-evento .flex-prev, .slider-evento .flex-next {
+    border-radius: 50%;
+    border: solid 1px #FFB348;
+    color: #FFB348;
+    height: 30px;
+    left: 355px;
+    line-height: 30px;
+    margin-top: -15px;
+    position: absolute;
+    text-align: center;
+    top: 15px;
+    width: 30px;
+}
+.slider-evento .flex-prev{
+    left: 310px;
+}
 /*=================================================================
 Quienes somos
 ===================================================================*/
@@ -1229,7 +1259,7 @@ Servivio al cliente
     position: absolute;
 }
 
-.servicio-al-cliente {
+.servicio-al-cliente .wrapper{
     font-size: .9em;
     text-align: justify;
 
@@ -1246,6 +1276,7 @@ Servivio al cliente
 #service li {
     border: 1px solid #00345A;
     border-radius: 10px;
+    color: #00345A;
     margin-bottom: 10px;
     padding: 10px;
 }
@@ -1468,7 +1499,7 @@ inscribete
 }
 #submenu li{
     display: block;
-    width: 100px;
+    width: 111px;
     padding: 5px;
 
 }
@@ -1478,11 +1509,59 @@ inscribete
 
 }
 #nuestros-cursos{
-background: url("../images/Nuestros-cursos.jpg") no-repeat center;
+    background: url("http://local.juan2ramos.com/formularioAupair/css/../images/Nuestros-cursos.jpg") no-repeat center;
+    position: relative;
+    height: 255px;
 }
 #nuestros-cursos figure{
-    width: 300px;
+    left: 50px;
+    position: absolute;
+    top: -75px;
+    width: 270px;
 }
+#nuestros-cursos figure img{
+    max-width: 250px;
+}
+
+#nuestros-cursos div{
+    margin: 60px 190px;
+}
+#nuestros-cursos div p{
+    color: #00345A;
+    margin: 0;
+    position: relative;
+    width: 725px;
+}
+#nuestros-cursos div span{
+    position: absolute;
+    right: 0;
+}
+#nuestros-cursos div span{
+    position: absolute;
+    right: 0;
+}
+#nuestros-cursos ul{
+    margin: 0 370px;
+    font-size: 1.2rem;
+    width: 400px;
+}
+#nuestros-cursos a{
+    color: #ffffff;
+}
+#nuestros-cursos a:hover{
+    text-decoration: underline;
+}
+#nuestros-cursos li{
+    display: inline-block;
+    padding-bottom: 18px;
+    vertical-align: middle;
+    width: 170px;
+}
+#nuestros-cursos li span{
+    color: #FFB348;
+    padding-right: 5px;
+}
+
 /*=================================================================
 State
 ===================================================================*/
@@ -1553,6 +1632,7 @@ section .column-4:last-child {
 }
 
 .big-p {
+    color: #00345A;
     font-size: 1.1rem !important;
 }
 #banner-program {
@@ -1582,7 +1662,7 @@ section .column-4:last-child {
     color: #FFB348;
 }
 .programa .contend-wrapper .item{
-    margin: 5px 0 7px;
+    margin: 5px 3px 7px;
     width: 350px;
 
 }
@@ -1594,6 +1674,7 @@ section .column-4:last-child {
     border: 2px solid #00345A;
     border-radius: 50%;
     font-size: 3rem;
+    margin-top: -6px;
     padding: 10px;
     text-align: center;
 }
@@ -1611,14 +1692,14 @@ section .column-4:last-child {
 .programa .right a:hover{
     background: #FFB348;
 }
-.programa-china .contend-wrapper p{
+.programa-china .contend-wrapper p ,.programa-usa .contend-wrapper p,.programa-alemania .contend-wrapper p,.programa-francia .contend-wrapper p{
     font-size: .8rem;
 }
-.programa-china .contend-wrapper hr{
+.programa-china .contend-wrapper hr,.programa-usa .contend-wrapper hr,.programa-alemania .contend-wrapper hr, .programa-francia .contend-wrapper hr{
     border-color: #00345A;
 }
 #menu-tabs li{
-    background: transparent;
+    background: rgb(231, 230, 230);
     color: #00345A;
     cursor: pointer;
     font-size: 1.5rem;
@@ -1634,8 +1715,15 @@ section .column-4:last-child {
     color: #FFB348;
     font-family: 'Conv_Helvetica LT Std - Bold';
 }
+#tabs h4{
+    color: #00345A;
+}
 #tabs li{
     display: none;
+    margin: 20px 0;
+}
+#tabs p{
+    margin: 0;
 }
 #tabs li.show{
     display: block;
@@ -1701,6 +1789,72 @@ section .column-4:last-child {
 }
 iframe{
     border: none;
+}
+.funcionarios .wrapper{
+    margin-top: 115px;
+    text-align: center;
+}
+.funcionarios .wrapper h2{
+    font-size: 2rem;
+    padding: 30px 0 0;
+}
+.funcionarios .wrapper hr{
+    border-color: #00345A;
+    margin: 0 auto 15px;
+    width: 350px;
+}
+.funcionarios .wrapper p{
+    margin: auto;
+    width: 350px;
+    text-align: justify;
+}
+.contend-span{
+    margin: 10px auto 0;
+    width: 350px
+}
+.contend-span span{
+    color: #00345A;
+    display: inline-block;
+    text-align: left;
+}
+.contend-span a{
+    color: #00345A;
+}
+.contend-span a:hover{
+    text-decoration: underline;
+}
+.contend-span span:first-child{
+    width: 170px;
+}
+
+.contend-span span:last-child{
+    text-align: right;
+    width: 168px;
+    margin-right: -2px;
+}
+.center{
+    text-align: center !important;
+    margin: 35px 0 !important;
+}
+
+
+
+#banner-programas {
+    background: url("../images/programas-pais.jpg");
+    color: #FFB348;
+    height: 250px;
+    position: relative;
+}
+
+#banner-programas span {
+    color: #ffffff;
+}
+
+#banner-programas h1 {
+    bottom: 20px;
+    font-size: 2.4rem;
+    left: 40px;
+    position: absolute;
 }
 @media screen and (max-width: 960px) {
     #formulario .column, #formulario .column:last-child {

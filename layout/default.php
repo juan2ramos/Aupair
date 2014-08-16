@@ -126,8 +126,9 @@
                     <ul id="submenu">
                         <li><a href="programa"> Programas </a></li>
                         <li><a href="programa-china"> China </a></li>
-                        <li><a href="programa-Canada"> Canada </a></li>
-                        <li><a href="programa-Alemania"> Alemania </a></li>
+                        <li><a href="programa-usa"> Estados Unidos </a></li>
+                        <li><a href="programa-alemania"> Alemania </a></li>
+                        <li><a href="programa-francia"> Francia </a></li>
 
                     </ul>
                 </li>

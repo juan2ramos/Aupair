@@ -1,6 +1,6 @@
 <div class="wrapper">
     <section id="banner-cliente">
-        <h1>Servicio al <span class="bold">Cliente.</span></h1>
+        <h1>Encuentranos.</h1>
     </section>
     <div class="contend-wrapper oktober">
         <section >

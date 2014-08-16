@@ -1,6 +1,6 @@
 <div class="wrapper">
     <section id="banner-program">
-        <h1>Quienes <span class="bold">Somos.</span></h1>
+        <h1 class="color-yellow">El <span class="bold color-yellow">Programa.</span></h1>
     </section>
     <div class="contend-wrapper">
         <article>
@@ -20,7 +20,7 @@
                     los siguientes requisitos:
                 </p>
 
-                <span class="inline icon-profile profile"></span>
+                <span class="inline icon-profile profile color-blue"></span>
                 <div class="inline">
                     <div class="item">
                         <span class="icon-profile"></span>
@@ -106,7 +106,7 @@
                     una
                     aplicación segura y una enriquecedora experiencia en su proyecto de vida.
                 </p>
-                <figure><img src="images/vision.jpg" alt=""/></figure>
+                <figure><img src="images/protegete-02.jpg" alt=""/></figure>
                 <h2 class="bold color-blue">Protegete.</h2>
                 <hr/>
                 <p class="big-p color-yellow">
@@ -129,12 +129,24 @@
         <figure class="inline">
             <img src="images/chica.png" alt=""/>
         </figure>
+        <div>
+            <p class="roman">
+                Aquí puedes descargar toda la información sobre
+
+                <span class="bold"> 7 44 01 44</span>
+            </p>
+            <p>
+                nuestros cursos.
+                <span class="min-p">* Recuerda que china es nuestro único destino que habilita cupos para hombres.</span>
+            </p>
+        </div>
         <article class="inline">
+
             <ul>
-                <li><span class="icon-signup"></span>nuestros-cursos</li>
-                <li><span class="icon-signup"></span>nuestros-cursos</li>
-                <li><span class="icon-signup"></span>nuestros-cursos</li>
-                <li><span class="icon-signup"></span>nuestros-cursos</li>
+                <li><span class="icon-signup"></span><a href="pdf/ingles.pdf" target="_blank">Ingles.</a></li>
+                <li><span class="icon-signup"></span><a href="pdf/frances.pdf" target="_blank">Francés.</a></li>
+                <li><span class="icon-signup"></span><a href="pdf/aleman.pdf" target="_blank">Alemán.</a></li>
+                <li><span class="icon-signup"></span><a href="pdf/primera-infancia.pdf" target="_blank">Primera Infancia.</a></li>
             </ul>
         </article>
 

@@ -34,21 +34,21 @@
             <span class="icon-signup"></span>
 
             <p class="inline">
-                Cuentas con una empresa
+                Ser solteras y no tener hijos
             </p>
         </div>
         <div class="item">
             <span class="icon-signup"></span>
 
             <p class="inline">
-                Cuentas con una empresa avalada por
+                Tener entre 17 a 29 años de edad
             </p>
         </div>
         <div class="item">
             <span class="icon-signup"></span>
 
             <p class="inline">
-                Cuentas con una empresa avalada por las Organizaciones
+                Ser bachiller como mínimo.
             </p>
         </div>
         <p>*Los requisitos generales del programa pueden variar dependiendo del país.</p>
@@ -144,7 +144,7 @@
             Llevamos más de 9 años ofreciendo programas exclusivos en preparación Au-Pair, tanto que actualmente
             hemos decidido tener nuestra propia ESCUELA AU-PAIR en Colombia.
         </p>
-        <button>Escuela Au pair</button>
+        <a href="programas">Escuela Au pair</a>
     </article>
 
 </div>

@@ -46,7 +46,10 @@
 
                     </div>
                 </form>
-
+                <p class="color-yellow center min-p">
+                    Ningún funcionario o asesor externo de la compañía, está autorizado para recibir o solicitar dinero
+                    en efectivo a los aspirantes o clientes por ningún motivo.
+                </p>
 
             </div>
             <div class="column-2">
@@ -61,8 +64,9 @@
                 <hr/>
                 <p>
                     ingresa tus datos y contesta el cuestionario a continuacion o comunícate con nosotros a nuestro PBX
-                    7440144, selecciona el punto de atención de tu preferencia y programa tu entrevista. <b class="bold color-blue">(Recuerda
-                    programar la cita con tus padres).</b>
+                    7440144, selecciona el punto de atención de tu preferencia y programa tu entrevista. <b
+                        class="bold color-blue">(Recuerda
+                        programar la cita con tus padres).</b>
                 </p>
 
                 <div class="contend-h2">
@@ -102,11 +106,12 @@
                     </li>
                 </ul>
                 <h3>Medios de pago <span class="bold color-blue">autorizados:</span></h3>
-                <ul >
+                <ul>
                     <li class="medios">• Consignación en efectivo o cheque en la cuenta de Bancolombia
                         RECAUDOS BANCOLOMBIA.
                     </li>
-                    <li class="medios">• Pago en tarjeta de crédito o debito a través de nuestra red de oficinas y en los datafonos
+                    <li class="medios">• Pago en tarjeta de crédito o debito a través de nuestra red de oficinas y en
+                        los datafonos
                         respectivos de cada una de las sedes de
                         AU-PAIR COLOMBIA S.A.S.
                     </li>

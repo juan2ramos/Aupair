@@ -1,6 +1,6 @@
 <div class="wrapper">
-    <section id="banner-cliente">
-        <h1>Servicio al <span class="bold">Cliente.</span></h1>
+    <section id="banner-programas">
+        <h1>Programa <span class="bold">Au Pair China.</span></h1>
     </section>
     <div class="contend-wrapper">
         <section>
@@ -9,7 +9,8 @@
             </div>
             <div class="column-2 right tel-min bold">
                 7 44 0144
-                <p class="min-p light">* Recuerda que china es nuestro único destino que habilita cupos para hombres.</p>
+                <p class="min-p light">* Recuerda que china es nuestro único destino que habilita cupos para
+                    hombres.</p>
             </div>
         </section>
         <hr/>
@@ -47,37 +48,68 @@
 
                 </li>
                 <li>
-                    <h3>Pregunta 02</h3>
+                    <p>• Poder aprender el idioma nativo del hogar (Mandarín)</p>
 
-                    <p>
+                    <p>• Habitación privada.</p>
 
-                        En nuestro departamento de servicio al cliente encontraras el apoyo necesario para todos los
-                        temas relacionados con tu aplicación, Contamos con personal especializado Asi como con un
-                        control de cada proceso de que se evidenciará a lo largo de cada uno de los pasos de tu
-                        proceso; en este departamento nos encargaremos de satisfacer cada una de tus necesidades;
+                    <p>• 750 Yuanes (RMB) como remuneración por el trabajo con los niños, un RMB equivale a 0.16
+                        centavos de dólar americano (USD).</p>
+
+                    <p>• Como mínimo 1 1/2 días de descanso cada semana y por lo menos un fin de semana completo cada
+                        mes para Au-Pair.</p>
+
+                    <p>• 3 días de vacaciones remuneradas por cada 3 meses de trabajo como Au- Pair.</p>
+
+                    <p>• Pago del curso de la lengua oficial en China (Mandarín) para la Au-Pair.</p>
+
+                    <p>• Seguro medico</p>
+                    <h4 class="roman">
+                        Después de su llegada a China.
+                    </h4>
+
+                    <p>• Dependiendo de su estadía ayuda para el tiquete aéreo, que puede ser hasta de 10.000 RMB.</p>
+
+                    <p>• Conocer la ciudad de ubicación y el país anfitrión.</p>
+
+                    <p>• Oportunidad de viajar a las ciudades cercanas de su ubicación para conocer diferentes
+                        territorios orientales.</p>
+                    <h4 class="roman">Acompañamiento</h4>
+
+                    <p>• Recepción en el aeropuerto.</p>
+
+                    <p>• Coordinador local de área que lo orientará y acompañará en su proceso.</p>
+
+                    <p>• Paquete de bienvenida y orientación.(mapa y sim-card)</p>
+
+                    <p>• Clases de Mandarín cada semana y certificado de asistencia al finalizar el curso.</p>
+
+                    <p>• Actividades culturales organizadas por la agencia representante en el exterior
+                        periódicamente.</p>
+
+                    <p>• Línea de atención 24 horas al día 7 días a la semana para casos de emergencia.</p>
+
+                    <p>• Soporte para la obtención de la visa; (el tipo de visa será determinado por el cónsul Chino en
+                        el momento de la presentación de documentos y dependiendo el tiempo de estadía en el
+                        exterior)
                     </p>
+
+                    <p>• Seguro de accidentes personales después de su llegada a China</p>
+
+                    <p>• Posibilidades de extensión de visa si el estudiante lo desea.</p>
+
                 </li>
+
                 <li>
-                    <h3>Pregunta 03</h3>
+                    <p> •	Proporcionar de 25 hasta 30  horas de cuidado de niños por semana, (no más de 7 horas al día.)</p>
+                    <p> •	Proporcionar supervisión general a los niños.</p>
+                    <p> •	Ayudar a los niños con el aprendizaje de inglés y deberes escolares.</p>
+                    <p> •	Mantener en orden las áreas de juego para niños</p>
+                    <p> •	Ayudar con tareas ligeras de la casa.</p>
+                    <p>  •	Recoger los niños del hogar, la escuela y otras actividades</p>
+                    <p>  •	Asistir a las actividades diarias de la familia anfitriona.</p>
+                    <p>  •	Participar en cursos de idioma oficial chino y / o en otros cursos libres de su interés mínimo 8 horas a la semana.</p>
 
-                    <p>
 
-                        En nuestro departamento de servicio al cliente encontraras el apoyo necesario para todos los
-                        temas relacionados con tu aplicación, Contamos con personal especializado Asi como con un
-                        control de cada proceso de que se evidenciará a lo largo de cada uno de los pasos de tu
-                        proceso; en este departamento nos encargaremos de satisfacer cada una de tus necesidades;
-                    </p>
-                </li>
-                <li>
-                    <h3>Pregunta 04</h3>
-
-                    <p>
-
-                        En nuestro departamento de servicio al cliente encontraras el apoyo necesario para todos los
-                        temas relacionados con tu aplicación, Contamos con personal especializado Asi como con un
-                        control de cada proceso de que se evidenciará a lo largo de cada uno de los pasos de tu
-                        proceso; en este departamento nos encargaremos de satisfacer cada una de tus necesidades;
-                    </p>
                 </li>
             </ul>
 

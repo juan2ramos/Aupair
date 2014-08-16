@@ -8,7 +8,7 @@
                 Aquí puedes ingresar cualquier solicitud, duda, o consultar el estado de tu proceso.
             </div>
             <div class="column-2 right tel bold">
-                7 44 0144
+                7 44 01 44
             </div>
         </section>
         <hr/>

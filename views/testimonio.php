@@ -7,7 +7,7 @@
             Llevamos más de 9 años ofreciendo programas exclusivos en preparación Au-Pair, tanto que actualmente
             hemos decidido tener nuestra propia Escuela Au-pair en Colombia.
         </p>
-        <button>Conócenos</button>
+        <a href="conocenos">Conócenos</a>
     </div>
         <section id="blog-section">
             <div class="content-blog">
@@ -26,8 +26,8 @@
                                         <hr/>
                                         <span>ENE. 07</span>
                                     </time>
-                                    <h3 class="inline">Mi procesos
-                                        <span>como Au pair.</span>
+                                    <h3 class="inline color-yellow">Mi procesos
+                                        <span class="color-blue">como Au pair.</span>
                                     </h3>
                                     <hr/>
                                     <p>
@@ -49,8 +49,8 @@
                                         <hr/>
                                         <span>ENE. 07</span>
                                     </time>
-                                    <h3 class="inline">Mi procesos
-                                        <span>como Au pair.</span>
+                                    <h3 class="inline color-yellow">Mi procesos
+                                        <span class="color-blue">como Au pair.</span>
                                     </h3>
                                     <hr/>
                                     <p>
@@ -74,8 +74,8 @@
                                         <hr/>
                                         <span>ENE. 07</span>
                                     </time>
-                                    <h3 class="inline">Mi proceso
-                                        <span>como Au pair.</span>
+                                    <h3 class="inline color-yellow">Mi proceso
+                                        <span class="color-blue">como Au pair.</span>
                                     </h3>
                                     <hr/>
                                     <p>
@@ -97,8 +97,8 @@
                                         <hr/>
                                         <span>ENE. 07</span>
                                     </time>
-                                    <h3 class="inline">Mi procesos
-                                        <span>como Au pair.</span>
+                                    <h3 class="inline color-yellow">Mi procesos
+                                        <span class="color-blue">como Au pair.</span>
                                     </h3>
                                     <hr/>
                                     <p>
@@ -122,8 +122,8 @@
                                         <hr/>
                                         <span>ENE. 07</span>
                                     </time>
-                                    <h3 class="inline">Mi procesos
-                                        <span>como Au pair.</span>
+                                    <h3 class="inline color-yellow">Mi procesos
+                                        <span class="color-blue">como Au pair.</span>
                                     </h3>
                                     <hr/>
                                     <p>
@@ -145,8 +145,8 @@
                                         <hr/>
                                         <span>ENE. 07</span>
                                     </time>
-                                    <h3 class="inline">Mi proceso
-                                        <span>como Au .</span>
+                                    <h3 class="inline color-yellow">Mi proceso
+                                        <span class="color-blue">como Au .</span>
                                     </h3>
                                     <hr/>
                                     <p>
@@ -172,7 +172,7 @@
                                 <div class="video" style="background: #003e6a">
                                     <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
                                 </div>
-                                <h3>Mi proceso <span>como Au pair.</span></h3>
+                                <h3 class="color-yellow">Mi proceso <span class="color-blue">como Au pair.</span></h3>
                                 <hr/>
                                 <p>
                                     Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un nuevo
@@ -185,7 +185,7 @@
                                 <div class="video" style="background: #003e6a">
                                     <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
                                 </div>
-                                <h3>Mi proceso <span>como Au pair.</span></h3>
+                                <h3 class="color-yellow">Mi proceso <span class="color-blue">como Au pair.</span></h3>
                                 <hr/>
                                 <p>
                                     Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un nuevo
@@ -200,7 +200,7 @@
                                 <div class="video" style="background: #003e6a">
                                     <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
                                 </div>
-                                <h3>Mi proceso <span>como Au pair.</span></h3>
+                                <h3 class="color-yellow">Mi proceso <span class="color-blue">como Au pair.</span></h3>
                                 <hr/>
                                 <p>
                                     Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un nuevo
@@ -213,7 +213,7 @@
                                 <div class="video" style="background: #003e6a">
                                     <iframe width="407" height="240" src="//www.youtube.com/embed/u9qgPJx-CGI" frameborder="0" allowfullscreen=""></iframe>
                                 </div>
-                                <h3>Mi proceso <span>como Au pair.</span></h3>
+                                <h3 class="color-yellow">Mi proceso <span class="color-blue">como Au pair.</span></h3>
                                 <hr/>
                                 <p>
                                     Ser Au Pair es tener la oportunidad de conocer una nueva cultura y adaptarte a un nuevo
