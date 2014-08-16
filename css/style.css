@@ -1496,6 +1496,7 @@ inscribete
     background: #00345A;
     font-size: 1rem;
     display: none;
+    z-index: 1000;
 }
 #submenu li{
     display: block;
